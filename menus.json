@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Margherita",
+  "image": "Margherita.png",
+  "price": "250",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Marinara",
+  "image": "Marinara.png",
+  "price": "300",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Carbonara",
+  "image": "Carbonara.png",
+  "price": "200",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Americana",
+  "image": "Americana.png",
+  "price": "500",
+  "size": "large"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Chicken Mushroom",
+  "image": "Chicken Mushroom.png",
+  "price": "350",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Paneer pizza",
+  "image": "Paneer.png",
+  "price": "200",
+  "size": "small"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Vegies pizza",
+  "image": "pizza.png",
+  "price": "600",
+  "size": "large"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Pepperoni",
+  "image": "Pepperoni.png",
+  "price": "500",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bacd"
+  },
+  "name": "nikx1",
+  "image": "Pepperoni.png",
+  "price": "500",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "5eee6717a21116807cf2bacd"
+  },
+  "name": "nikx2",
+  "image": "Pepperoni.png",
+  "price": "500",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "60aeae4c052d5d90005eac39"
+  },
+  "name": "nikx3",
+  "image": "Pepperoni.png",
+  "price": "500",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "60aeaec2052d5d90005eac3b"
+  },
+  "name": "nikx4",
+  "image": "Pepperoni.png",
+  "price": "500",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "60aeaf83052d5d90005eac3c"
+  },
+  "name": "nikx5",
+  "image": "Pepperoni.png",
+  "price": "500",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "60aeafac052d5d90005eac3d"
+  },
+  "name": "nikx6",
+  "image": "Pepperoni.png",
+  "price": "500",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "60aeafb9052d5d90005eac3e"
+  },
+  "name": "nikx7",
+  "image": "Pepperoni.png",
+  "price": "500",
+  "size": "medium"
+},{
+  "_id": {
+    "$oid": "60aeafcb052d5d90005eac3f"
+  },
+  "name": "nikx8",
+  "image": "Pepperoni.png",
+  "price": "500",
+  "size": "medium"
+}]

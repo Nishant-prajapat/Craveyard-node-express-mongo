@@ -1,0 +1,44 @@
+laraval mix 
+features that are not supported by every browser so it translates for them for their understanding
+
+
+
+
+link reverterd to user mail id 
+verification
+
+compulsions in reg
+
+
+counter on cart
+
+
+
+
+
+
+
+========================================================================================================================================
+
+
+ChIJD7fiBh9u5kcRYJSMaMOCCwQ
+place id^^^^^^^^^
+Place Autocomplete automatically fills in the name and/or address of a place as users type.
+https://developers.google.com/maps/documentation/places/web-service/autocomplete
+
+
+
+
+"location" : {
+            "lat" : -33.866651,
+            "lng" : 151.195827
+         },
+Place Details returns more detailed information about a specific place, including user reviews.
+https://developers.google.com/maps/documentation/places/web-service/details
+
+
+
+npm i react-places-autocomplete
+https://www.npmjs.com/package/react-places-autocomplete
+
+
