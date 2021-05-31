@@ -2,7 +2,7 @@
     <% if(session.cart) { %>
     <div class="order container mx-auto xl:w-1/2">
         <div class="flex items-center border-b border-gray-300 pb-4">
-            <img src="/img/cart-black.png" alt="">
+            <img src="/img/cart.png" alt="">
             <h1 class="font-bold ml-4 text-2xl">Order summary</h1>
         </div>
         <div class="pizza-list">
@@ -29,7 +29,7 @@
             <div>
                 <form action="/orders" method="POST" class="mt-12" id="payment-form">
                     <div class="relative w-1/2 ml-auto mb-4">
-                        <select id="paymentType" name="paymentType" class="block appearance-none w-full bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-8 rounded leading-tight focus:outline-none focus:shadow-outline">
+                        <select id="paymentType" name="paymentType" style="color:black" class="block appearance-none w-full bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-8 rounded leading-tight focus:outline-none focus:shadow-outline" >
                           <option value="cod">Cash on delivery</option>
                           <option value="card">Pay with card</option>
                         </select>
@@ -38,11 +38,11 @@
                         </div>
                       </div>
                     <input name="phone" class="border border-gray-400 p-2 w-1/2 mb-4" type="text"
-                        placeholder="Phone number">
-                    <input name="address" class="border border-gray-400 p-2 w-1/2" type="text" placeholder="Address">
+                        placeholder="Phone number"style="color:#000;">
+                    <input name="address" class="border border-gray-400 p-2 w-1/2" type="text" placeholder="Address" id="text">
                     <div class="mt-4">
                         <div id="card-element"></div>
-                        <button class="btn-primary px-6 py-2 rounded-full text-white font-bold mt-6" type="submit">Order
+                        <button class="btn-primary px-6 py-2 rounded-full text-white font-bold mt-6" id="text" type="submit">Order
                             Now</button>
                     </div>
                 </form>
@@ -61,7 +61,7 @@
             <p class="text-gray-500 text-lg mb-12">You probably haven't ordered a pizza yet. <br>
                 To order a pizza, go to the main page.</p>
             <img class="w-2/5 mx-auto" src="/img/empty-cart.png" alt="empty-cart">
-            <a href="/" class="inline-block px-6 py-2 rounded-full btn-primary text-white font-bold mt-12">Go back</a>
+            
         </div>
     </div>
     <% } %>

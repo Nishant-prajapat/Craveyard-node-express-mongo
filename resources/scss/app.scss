@@ -52,14 +52,14 @@ section.hero {
 }
 
 section.cart {
-    background: $secondary;
+    background: #181a1b;
     .amount {
         color: $primary;
     }
 }
 
 section.login {
-    background: $secondary;
+    background: #181a1b;
     min-height: calc(100vh - 86px);
     a {
         color: $primary;
@@ -230,7 +230,7 @@ section.status {
   }
   #np{
     height:330px;
-    background: rgba( 255, 255, 255, 0.35 );
+    background: #606470;
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
     backdrop-filter: blur( 15.0px );
     -webkit-backdrop-filter: blur( 15.0px );
@@ -241,5 +241,8 @@ section.status {
     color:#fff;
 }
 #size_color{
+    color:black;
+}
+#text{
     color:black;
 }

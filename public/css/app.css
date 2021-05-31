@@ -311,7 +311,7 @@ body {
 }
 
 nav li:last-child a {
-  background: #FE5F1E;
+  background: #6253b9;
 }
 
 nav li:last-child a:hover {
@@ -323,7 +323,7 @@ nav li a {
 }
 
 nav li a:hover {
-  color: #FE5F1E;
+  color: #6253b9;
 }
 
 section.hero {
@@ -341,7 +341,7 @@ section.hero {
 }
 
 .add-to-cart:hover {
-  background: #FE5F1E;
+  background: #6253b9;
   border-color: #ffffff;
   color: #ffffff;
 }
@@ -360,20 +360,20 @@ section.hero {
 }
 
 section.cart {
-  background: #F8F8F8;
+  background: #181a1b;
 }
 
 section.cart .amount {
-  color: #FE5F1E;
+  color: #6253b9;
 }
 
 section.login {
-  background: #F8F8F8;
+  background: #181a1b;
   min-height: calc(100vh - 86px);
 }
 
 section.login a {
-  color: #FE5F1E;
+  color: #6253b9;
 }
 
 section.login a:hover {
@@ -386,7 +386,7 @@ section.login a:hover {
 }
 
 a.link {
-  color: #FE5F1E;
+  color: #6253b9;
 }
 
 section.status {
@@ -483,11 +483,11 @@ section.status {
 }
 
 .status-box ul li.current span {
-  color: #FE5F1E;
+  color: #6253b9;
 }
 
 .status-box ul li.current span:after {
-  background: #FE5F1E;
+  background: #6253b9;
 }
 
 .status-box ul li small {
@@ -541,7 +541,7 @@ section.status {
 
 #np {
   height: 330px;
-  background: rgba(255, 255, 255, 0.35);
+  background: #606470;
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(15px);
   -webkit-backdrop-filter: blur(15px);
@@ -554,6 +554,10 @@ section.status {
 }
 
 #size_color {
+  color: black;
+}
+
+#text {
   color: black;
 }
 
