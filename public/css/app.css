@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+/*pizza size style*/
+
+/*body color*/
+
 .noty_layout_mixin,
 #noty_layout__centerRight,
 #noty_layout__centerLeft,
@@ -302,7 +306,7 @@
 body {
   font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
-  color: #000000;
+  color: #ffffff;
   background-color: #181a1b;
 }
 
@@ -323,7 +327,7 @@ nav li a:hover {
 }
 
 section.hero {
-  background: #F8F8F8;
+  background: #000;
 }
 
 .size {
@@ -338,8 +342,8 @@ section.hero {
 
 .add-to-cart:hover {
   background: #FE5F1E;
-  border-color: #fff;
-  color: #fff;
+  border-color: #ffffff;
+  color: #ffffff;
 }
 
 .add-to-cart:focus {
@@ -408,7 +412,7 @@ section.status {
   position: absolute;
   left: -10px;
   top: 50%;
-  background: #000000;
+  background: #ffffff;
   width: 10px;
   height: 10px;
   border-radius: 50%;
@@ -458,7 +462,7 @@ section.status {
   left: -6px;
   width: 2px;
   height: 100%;
-  background: #000000;
+  background: #ffffff;
   margin-top: 10px;
 }
 
@@ -533,5 +537,23 @@ section.status {
 
 .StripeElement--webkit-autofill {
   background-color: #fefde5 !important;
+}
+
+#np {
+  height: 330px;
+  background: rgba(255, 255, 255, 0.35);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+#price_color {
+  color: #fff;
+}
+
+#size_color {
+  color: black;
 }
 

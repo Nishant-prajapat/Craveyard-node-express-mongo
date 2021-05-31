@@ -1,12 +1,14 @@
 // Colors
 $primary: #FE5F1E;
 $primary-hover: #b23301;
-$secondary: #F8F8F8;
-$pure: #fff;
+$secondary: #F8F8F8;/*pizza size style*/
+$hero-background:#000;
+$pure: #ffffff;
 
-$dark: #000000;
+$dark: #ffffff; /*body color*/
 $gray: rgb(45, 199, 45);
 $primary_cart: rgb(255, 255, 255);
+$primary_button_color:$hero-background;
 
 // Transition 
 $smooth: all .3s ease-in-out;
