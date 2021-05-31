@@ -6,7 +6,9 @@ body {
     font-family: 'Lato', sans-serif;
     -webkit-font-smoothing: antialiased;
     color: $dark;
+    background-color: rgba(24,26,27,255);
 }
+
 
 nav li:last-child a {
     background: $primary;
@@ -28,8 +30,8 @@ section.hero {
     background: $secondary;
 }
 .add-to-cart {
-    border: 2px solid $primary;
-    color: $primary;
+    border: 2px solid $primary_cart;
+    color: $primary_cart;
     transition: $smooth;
     &:hover {
         background: $primary;
@@ -42,7 +44,7 @@ section.hero {
 }
 
 .btn-primary {
-    background: $primary;
+    background: $primary_cart;
     transition: $smooth;
     &:hover {
         background: $primary-hover;
