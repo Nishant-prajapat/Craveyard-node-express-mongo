@@ -307,15 +307,19 @@ body {
   font-family: "Lato", sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #ffffff;
-  background-color: #181a1b;
+  background-color: #17191a;
+}
+
+h3 {
+  font: size 25px;
 }
 
 nav li:last-child a {
-  background: #6253b9;
+  background: #f3f3f3;
 }
 
 nav li:last-child a:hover {
-  background: #b23301;
+  background: #fff979;
 }
 
 nav li a {
@@ -323,11 +327,11 @@ nav li a {
 }
 
 nav li a:hover {
-  color: #6253b9;
+  color: #f3f3f3;
 }
 
 section.hero {
-  background: #000;
+  background: #17191A;
 }
 
 .size {
@@ -341,7 +345,7 @@ section.hero {
 }
 
 .add-to-cart:hover {
-  background: #6253b9;
+  background: #f3f3f3;
   border-color: #ffffff;
   color: #ffffff;
 }
@@ -356,28 +360,28 @@ section.hero {
 }
 
 .btn-primary:hover {
-  background: #b23301;
+  background: #fff979;
 }
 
 section.cart {
-  background: #181a1b;
+  background: #17191A;
 }
 
 section.cart .amount {
-  color: #6253b9;
+  color: #f3f3f3;
 }
 
 section.login {
-  background: #181a1b;
+  background: #17191A;
   min-height: calc(100vh - 86px);
 }
 
 section.login a {
-  color: #6253b9;
+  color: #f3f3f3;
 }
 
 section.login a:hover {
-  color: #b23301;
+  color: #fff979;
 }
 
 .noty_theme__mint {
@@ -386,7 +390,7 @@ section.login a:hover {
 }
 
 a.link {
-  color: #6253b9;
+  color: #f3f3f3;
 }
 
 section.status {
@@ -483,11 +487,11 @@ section.status {
 }
 
 .status-box ul li.current span {
-  color: #6253b9;
+  color: #f3f3f3;
 }
 
 .status-box ul li.current span:after {
-  background: #6253b9;
+  background: #f3f3f3;
 }
 
 .status-box ul li small {
@@ -540,7 +544,6 @@ section.status {
 }
 
 #np {
-  height: 330px;
   background: #606470;
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(15px);
@@ -559,5 +562,9 @@ section.status {
 
 #text {
   color: black;
+}
+
+#animate_size {
+  width: 400px;
 }
 

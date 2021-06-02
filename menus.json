@@ -62,68 +62,76 @@
   "image": "Pepperoni.png",
   "price": "500",
   "size": "medium"
-},{
+},
+
+
+
+
+
+
+
+{
   "_id": {
     "$oid": "5eee6717a27a66807cf2bacd"
   },
-  "name": "nikx1",
-  "image": "Pepperoni.png",
+  "name": "Veg Loaded",
+  "image": "vegloaded.png",
   "price": "500",
   "size": "medium"
 },{
   "_id": {
     "$oid": "5eee6717a21116807cf2bacd"
   },
-  "name": "nikx2",
-  "image": "Pepperoni.png",
+  "name": "Veg Mushroom",
+  "image": "vegmush.png",
   "price": "500",
   "size": "medium"
 },{
   "_id": {
     "$oid": "60aeae4c052d5d90005eac39"
   },
-  "name": "nikx3",
-  "image": "Pepperoni.png",
-  "price": "500",
+  "name": "Veg Paprika",
+  "image": "vegpaprika.png",
+  "price": "400",
   "size": "medium"
 },{
   "_id": {
     "$oid": "60aeaec2052d5d90005eac3b"
   },
-  "name": "nikx4",
-  "image": "Pepperoni.png",
-  "price": "500",
+  "name": "Thai ",
+  "image": "thaipizza.png",
+  "price": "550",
   "size": "medium"
 },{
   "_id": {
     "$oid": "60aeaf83052d5d90005eac3c"
   },
-  "name": "nikx5",
-  "image": "Pepperoni.png",
+  "name": "Sausage",
+  "image": "sausage.png",
   "price": "500",
   "size": "medium"
 },{
   "_id": {
     "$oid": "60aeafac052d5d90005eac3d"
   },
-  "name": "nikx6",
-  "image": "Pepperoni.png",
-  "price": "500",
+  "name": "Mac and Cheese ",
+  "image": "maccheese.png",
+  "price": "700",
   "size": "medium"
 },{
   "_id": {
     "$oid": "60aeafb9052d5d90005eac3e"
   },
-  "name": "nikx7",
-  "image": "Pepperoni.png",
+  "name": "Cheese and Corn",
+  "image": "cheesecorn.png",
   "price": "500",
   "size": "medium"
 },{
   "_id": {
     "$oid": "60aeafcb052d5d90005eac3f"
   },
-  "name": "nikx8",
-  "image": "Pepperoni.png",
-  "price": "500",
+  "name": "Veg Delite",
+  "image": "vegdelite.png",
+  "price": "400",
   "size": "medium"
 }]

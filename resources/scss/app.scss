@@ -6,9 +6,12 @@ body {
     font-family: 'Lato', sans-serif;
     -webkit-font-smoothing: antialiased;
     color: $dark;
-    background-color: rgba(24,26,27,255);
+    background-color: rgba(23, 25, 26,255);
 }
 
+h3{
+    font: size 25px;
+}
 
 nav li:last-child a {
     background: $primary;
@@ -52,14 +55,14 @@ section.hero {
 }
 
 section.cart {
-    background: #181a1b;
+    background: #17191A;
     .amount {
         color: $primary;
     }
 }
 
 section.login {
-    background: #181a1b;
+    background: #17191A;
     min-height: calc(100vh - 86px);
     a {
         color: $primary;
@@ -229,7 +232,7 @@ section.status {
     background-color: #fefde5 !important;
   }
   #np{
-    height:330px;
+    
     background: #606470;
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
     backdrop-filter: blur( 15.0px );
@@ -245,4 +248,7 @@ section.status {
 }
 #text{
     color:black;
+}
+#animate_size{
+    width: 400px;
 }
