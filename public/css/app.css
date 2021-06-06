@@ -389,12 +389,11 @@ section.login a:hover {
   padding-left: 8px !important;
 }
 
-a.link {
+orderTableBody a.link {
   color: #f3f3f3;
 }
 
 section.status {
-  background: #F8F8F8;
   min-height: calc(100vh - 86px);
 }
 
